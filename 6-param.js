@@ -1,7 +1,7 @@
 var express = require('express')
 var app = express()
 
-app.put('/messages/:id', function(req, res){
+app.put('/messages/:id', function(req, res) {
   var id = req.params.id
   var str = require('crypto')
     .createHash('sha1')
