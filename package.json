@@ -18,7 +18,8 @@
   "homepage": "https://github.com/bheim6/expressworks#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
-    "express": "^4.11.2"
+    "express": "^4.11.2",
+    "stylus": "^0.54.5"
   },
   "devDependencies": {}
 }
